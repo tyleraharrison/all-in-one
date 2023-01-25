@@ -7,8 +7,8 @@ Included are:
 - High performance backend for Nextcloud Files
 - High performance backend for Nextcloud Talk
 - Backup solution (based on [BorgBackup](https://github.com/borgbackup/borg#what-is-borgbackup))
-- Imaginary
 - ClamAV
+- Imaginary (for previews of heic, svg, tiff and webp)
 - Fulltextsearch
 
 ## How to use this?
